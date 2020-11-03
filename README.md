@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
   </a>
-  <h3 align="center">Amazon</h3>
+  <h3 align="center">Ark</h3>
 
   <p align="center">
     This is website is about the game ARK.<br>
